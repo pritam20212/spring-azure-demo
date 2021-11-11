@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Azure-Pritam'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7B0DC2CD22045FAA43DDE007E1CA24C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1327AF771A4E4FE89F72F821F074D406 }}
           package: '*.jar'
